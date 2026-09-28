@@ -1,1 +1,3 @@
 # odin-recipes
+Welcome to my sushi site! Not many recipes like these in the known multiverse...
+But I used my basic html knowledge to easily construct a recipe web page with multiple recipes and a navigation system.
